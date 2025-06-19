@@ -1,5 +1,5 @@
 import time
-
+print('Bot iniciado...')
 while True:
-    print("Bot rodando...")
+    print('Executando...')
     time.sleep(60)
